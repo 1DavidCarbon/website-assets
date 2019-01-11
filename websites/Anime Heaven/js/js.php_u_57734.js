@@ -1,0 +1,1 @@
+var r = encodeURIComponent(document.referrer); var l = encodeURIComponent(top.document.URL);var wh = encodeURIComponent('?**'+screen.width+'x'+screen.height); document.write("<a href='http://c-stat.eu/in.php?u=57734'><img src='http://c-stat.eu/c.php?u=57734&rjs="+r+wh+"&ljs="+l+"' alt='C-STAT'></a>");

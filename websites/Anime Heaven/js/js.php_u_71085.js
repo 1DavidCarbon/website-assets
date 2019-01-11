@@ -1,0 +1,1 @@
+var r = encodeURIComponent(document.referrer); var l = encodeURIComponent(top.document.URL);var wh = encodeURIComponent('?**'+screen.width+'x'+screen.height); document.write("<a href='http://u-on.eu/in.php?u=71085'><img src='http://u-on.eu/c.php?u=71085&rjs="+r+wh+"&ljs="+l+"' alt='U-ON'></a>");
